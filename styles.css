@@ -1,15 +1,3 @@
-body,h1 {
-   font-family: "Raleway", sans-serif
-}
-body, html {
-   height: 100%
-}
-.bgimg {
-  background-image: url('https://images.app.goo.gl/XS8KwCHZDxDH8vbK9');
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
-}
 #menu__toggle {
   opacity: 0;
 }
