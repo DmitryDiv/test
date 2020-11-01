@@ -72,8 +72,5 @@
   left: 0;
 }
 .text {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 50px;
+  align-text: center;
 }
